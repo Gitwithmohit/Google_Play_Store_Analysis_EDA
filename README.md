@@ -7,7 +7,7 @@ The aim was to uncover patterns and trends that explain **user behavior, app dis
 ---
 
 ## 📂 Project Files
-- **Dataset:** `googleplaystore_v2.csv`  
+- **Dataset:** `googleplaystore_v2.csv` (googleplaystore_v2.csv) 
 - **Jupyter Notebook:** `Google Playstore-Case Study.ipynb`  
 - **Report (PDF):** `Google_Play_Store_Report.pdf`
 
