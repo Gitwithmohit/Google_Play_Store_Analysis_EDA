@@ -5,7 +5,7 @@ The dataset (`googleplaystore_v2.csv`) provides detailed attributes such as app 
 The aim was to uncover patterns and trends that explain **user behavior, app distribution, and performance metrics**.
 
 ---
-![LOGO](google.png)
+![LOGO](google.jpg)
 
 ## 📂 Project Files
 - **Dataset:** `googleplaystore_v2.csv` (googleplaystore_v2.csv) 
